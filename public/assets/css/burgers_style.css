@@ -1,0 +1,52 @@
+body {
+
+  /*background-color: #f4c242;*/
+background-image: url("https://media.timeout.com/images/103462781/image.jpg");
+  /*background-color:#FF7F50;*/
+  /*width:2.75em; */
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+
+img {
+
+  width: 30%;
+
+}
+
+
+
+.red_font {
+
+  color: black;
+
+}
+
+
+
+.tiny_text {
+
+  font-size: 20px;
+
+  /*color: #5da82f;*/
+
+  color: black;
+
+}
+
+
+
+.bugerEaterTextBox {
+
+  padding: 2px;
+
+  height: 100%;
+
+}
+h4{
+  font-size: 40px;
+  padding:4px;
+}
